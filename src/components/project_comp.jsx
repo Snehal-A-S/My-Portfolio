@@ -46,7 +46,7 @@ const projects = [
     description:
       "Developed a dynamic and responsive portfolio to showcase projects, skills, and achievements. Built using React, styled with Tailwind CSS, and enhanced with Framer Motion for smooth animations. Implemented React Router for seamless navigation across sections.",
     image: "../../public/protfolio.jpg",
-    github: "https://github.com/Snehal-A-S/Snehal-A-S",
+    github: "https://github.com/Snehal-A-S/My-Portfolio",
   },
 ];
 
