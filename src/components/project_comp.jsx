@@ -9,21 +9,21 @@ const projects = [
     title: "Wanderlust – Airbnb Clone Web Application",
     description:
       "Developed a full-stack travel accommodation platform allowing users to list, book, and explore stays. Implemented secure user authentication with proper password hashing and session management. Built using Express.js, Node.js, MongoDB, Tailwind CSS, and followed RESTful API architecture for backend communication.",
-    image: "../../public/wanderlust1.png",
+    image: "/wanderlust1.png",
     github: "https://github.com/Snehal-A-S/Wanderlust",
   },
   {
     title: "Simon Game – Memory-Based Color Pattern Game",
     description:
       "Developed an interactive browser-based game that challenges users to replicate increasing color sequences. Used HTML, CSS, and JavaScript to implement game logic. Focused on DOM manipulation and event handling to enhance user experience and engagement.",
-    image: "../../public/simongame.png",
+    image: "/simongame.png",
     github: "https://github.com/Snehal-A-S/Simon-game",
   },
   {
     title: "Sentiment Analysis using Machine Learning",
     description:
       "Built a machine learning model to classify text as positive or negative, based on sentiment. Applied NLP techniques such as text preprocessing, TF-IDF vectorization, and logistic regression. Evaluated model performance using accuracy, precision, recall, and confusion matrix metrics.",
-    image: "../../public/sentiment.png",
+    image: "/sentiment.png",
     github: "https://github.com/Snehal-A-S/IEEE-CAS-Internship---AI-ML",
   },
   {
@@ -31,21 +31,21 @@ const projects = [
       "Decentralized Student Result Storage and Verification System (ongoing)",
     description:
       "Currently developing a secure platform to store and verify student academic results using blockchain and cloud computing. Aiming to ensure data integrity and tamper‑proof verification through blockchain‑based hashing and immutability. Backend development involves Node.js and Express.js with secure cloud integration for result storage.",
-    image: "../../public/blockchain.jpg",
+    image: "/blockchain.jpg",
     github: "https://github.com/Snehal-A-S/Cloud-Computing-Internship---P100",
   },
   {
     title: "Smart Traffic Management System for Emergency Vehicles",
     description:
       "Developed a system to prioritize emergency vehicles by automatically controlling traffic signals based on their detection. Implemented RFID technology and Arduino for vehicle identification and signal automation in real-time. Used C++ for Arduino programming and simulated traffic flow using Tinkercad platforms.",
-    image: "../../public/traffic.jpg",
+    image: "/traffic.jpg",
     // Optional: add GitHub link if available
   },
   {
     title: "Personal Portfolio Website",
     description:
       "Developed a dynamic and responsive portfolio to showcase projects, skills, and achievements. Built using React, styled with Tailwind CSS, and enhanced with Framer Motion for smooth animations. Implemented React Router for seamless navigation across sections.",
-    image: "../../public/protfolio.jpg",
+    image: "/protfolio.jpg",
     github: "https://github.com/Snehal-A-S/My-Portfolio",
   },
 ];
