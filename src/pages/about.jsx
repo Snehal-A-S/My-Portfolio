@@ -4,6 +4,7 @@ import Experience from '../components/exp_comp'
 import Projects from '../components/project_comp'
 import Contact from '../components/contact_comp'
 import Education from '../components/education'
+import {FaLinkedin} from "react-icons/fa";
 
 const About = () => {
   return (
@@ -55,10 +56,13 @@ const About = () => {
                 Download CV
               </a>
               <a
-                href="/src/pages/contact"
-                className="border border-cyan-500 hover:bg-cyan-500 hover:text-white text-cyan-400 px-6 py-3 rounded-full transition text-sm sm:text-base"
+                href="https://www.linkedin.com/in/snehal-suryavanshi/"
+                className="inline-flex gap-2 items-center justify-center border border-cyan-500 hover:bg-cyan-500 hover:text-white text-cyan-400 px-6 py-3 rounded-full transition text-sm sm:text-base"
               >
-                Contact Me
+              
+               <FaLinkedin className="text-xl" />
+  <span className="font-semibold">LinkedIn</span>
+                
               </a>
             </div>
           </motion.div>
