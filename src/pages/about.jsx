@@ -55,7 +55,7 @@ const About = () => {
                 Download CV
               </a>
               <a
-                href="/contact"
+                href="/src/pages/contact"
                 className="border border-cyan-500 hover:bg-cyan-500 hover:text-white text-cyan-400 px-6 py-3 rounded-full transition text-sm sm:text-base"
               >
                 Contact Me
